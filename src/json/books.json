@@ -1,0 +1,26 @@
+[
+    {
+           
+        "title": "Book1",
+        "author": "Author1",
+        "price": "$ 100",
+        "releasedDate": "11.12.2016"
+
+    },
+    {
+        
+        "title": "Book2",
+        "author": "Author3",
+        "price": "$ 250",
+        "releasedDate": "12.10.2003"
+
+    },
+    {
+        
+        "title": "Book3",
+        "author": "Author3",
+        "price": "$ 200",
+        "releasedDate": "13.10.2006"
+
+    }
+]
